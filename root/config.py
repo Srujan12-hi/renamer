@@ -1,9 +1,9 @@
 '''
-© Mrvishal2k2
+© Srujan
 RenameBot
-This file is a part of mrvishal2k2 rename repo 
+This file is a part of @Sruja_ 12rename repo 
 Dont kang !!!
-© Mrvishal2k2
+© Srujan
 '''
 import os 
 
