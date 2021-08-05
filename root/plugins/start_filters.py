@@ -1,9 +1,9 @@
 '''
 RenameBot
-Thanks to Spechide Unkle as always for the concept  ♥️
-This file is a part of mrvishal2k2 rename repo 
+Thanks to my girl friend as always for the concept  ♥️
+This file is a part of @sruja_12 rename repo 
 Dont kang !!!
-© Mrvishal2k2
+© @sruja_12
 '''
 import os
 import logging
