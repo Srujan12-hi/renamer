@@ -1,6 +1,6 @@
 {
   "name": "TG-RenameBot",
-  "description": "Telegram's best Rename Bot. Create your Fork now.",
+  "description": "Telegram's best Rename Bot. Create your bot now.",
   "keywords": [
     "telegram",
     "best",
@@ -8,8 +8,8 @@
     "Convert",
     "Caption"
   ],
-  "website": "https://github.com/mrvishal2k2",
-  "repository": "https://github.com/mrvishal2k2/TG-RenameBot/tree/main",
+  "website": "https://github.com/Srujan-12-hi",
+  "repository": "https://t.me/source_code_of_file_store_bot/2",
   "logo": "https://telegra.ph//file/b3461e7795bb258688623.jpg",
   "env": {
     "TG_BOT_TOKEN": {
