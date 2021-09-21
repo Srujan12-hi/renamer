@@ -5,5 +5,5 @@ class Translation(object):
     DOWNLOAD_MSG = "**Downloading it please wait**⏬"
     DOWNLOAD_FAIL_MSG = "**Sorry Unkil Failed to Download File\nThere may be a problem with your file**❎"
     UPLOAD_MSG = "**Uploading it to telegram please wait ** ⏫"
-    UPLOAD_FAIL_MSG = "**Failed to Upload File\nThere may be a problem with your file**❎"
-    UPLOAD_DONE_MSG = "**Uploaded Successfully 💡"
+    UPLOAD_FAIL_MSG = "**Sorry UnkilFailed to Upload File\nThere may be a problem with your file**❎"
+    UPLOAD_DONE_MSG = "**Uploaded Successfully 💡\nIf any bugs report [Srujan (My Dev)](https://t.me/sruja_12_pa_bot)"
