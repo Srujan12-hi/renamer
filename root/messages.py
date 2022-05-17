@@ -6,7 +6,7 @@ I am a simple Telegram Rename Bot
 
 For more info check help
 
-⚜️ Maintained By 👉 @Ts_Bots**
+⚜️ Maintained By 👉 @Srujan**
 """
 ######################
     HELP_USER = """
