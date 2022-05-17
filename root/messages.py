@@ -30,3 +30,18 @@ Thank God for helping me in all creations
     UPLOAD_MSG = "**Uploading it to telegram please wait ** ⏫"
     UPLOAD_FAIL_MSG = "**Sorry UnkilFailed to Upload File\nThere may be a problem with your file**❎"
     UPLOAD_DONE_MSG = "**Uploaded Successfully 💡\nIf any bugs report [Srujan (My Dev)](https://t.me/sruja_12_pa_bot)"
+    ABOUT_TEXT = """ 📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ,
+
+○ My Name : Renamer Bot
+
+○ language : Python 
+
+○ Frame work : Pyrogram
+
+○ Server : Heroku
+
+○ Version : 2.0.0
+
+○ Creator : @Sruja_12 
+
+○ Source Code :- [Click Here](https://t.me/source_code_of_file_store_bot/2)'''"""
