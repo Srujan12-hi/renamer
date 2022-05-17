@@ -1,7 +1,30 @@
 class Translation(object):
-    START_TEXT = "**I'm a Rename + Convert Bot\n\nJust send me any media to change file name.\n\nUse /help command for more details\n\nMade with love by @sruja_12 **"
+    START_TEXT = """
+**😃 Hai ,
+
+I am a simple Telegram Rename Bot
+
+For more info check help
+
+⚜️ Maintained By 👉 @Ts_Bots**
+"""
 ######################
-    HELP_USER = """**>>Send any File/Video\n>>Select desired Option\n>>And wait for me to process files**"""
+    HELP_USER = """
+**1. Send a custom Thumbnail to save it permenantly (Optional) 
+
+2. Send the File to be Renamed
+
+5. Click on Desired button
+
+6. Send a New File Name for your file when bot asks (with or with out extension) 
+
+7. Then wait for the Renaming process to be finished  
+
+
+Thank God for helping me in all creations
+
+©️ Srujan**
+"""
     DOWNLOAD_MSG = "**Downloading it please wait**⏬"
     DOWNLOAD_FAIL_MSG = "**Sorry Unkil Failed to Download File\nThere may be a problem with your file**❎"
     UPLOAD_MSG = "**Uploading it to telegram please wait ** ⏫"
