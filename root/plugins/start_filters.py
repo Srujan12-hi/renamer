@@ -46,3 +46,10 @@ async def log_msg(c,m):
      await z.delete()
   else:
     await z.edit_text("Log file not found")
+
+@Client.on_message(filters.command("about"))
+async def help_user(c,m):
+    try:
+       await m.reply_text(Translation.HELP_USER,quote=True)
+    except Exception as e:
+        log.info(str(e))
