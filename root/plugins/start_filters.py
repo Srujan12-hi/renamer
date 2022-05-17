@@ -50,6 +50,6 @@ async def log_msg(c,m):
 @Client.on_message(filters.command("about"))
 async def help_user(c,m):
     try:
-       await m.reply_text(Translation.HELP_USER,quote=True)
+       await m.reply_text(Translation.ABOUT_TEXT,quote=True)
     except Exception as e:
         log.info(str(e))
